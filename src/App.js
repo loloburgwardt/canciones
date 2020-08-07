@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Kimosabe Option
+          Learn React Kimosabe Option y Luli genia
         </a>
       </header>
     </div>
